@@ -1,2 +1,0 @@
-# testingRevolutionPrep
-Created with CodeSandbox

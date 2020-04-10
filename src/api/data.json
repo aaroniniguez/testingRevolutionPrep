@@ -1,0 +1,88 @@
+{
+  "revenuePerformances": [
+    {
+      "id": 545,
+      "type": "RevenuePerformance::Employee",
+      "owner": {
+        "id": 5480,
+        "name": "Marlene Fishbein",
+        "firstName": "Marlene",
+        "lastName": "Fishbein",
+        "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+        "type": "Employee",
+        "team_id": 13
+      },
+      "revenueTarget": 85000.0,
+      "revenueActual": 75845.15,
+      "lastEditedBy": {
+        "id": 5480,
+        "firstName": "Marlene",
+        "lastName": "Fishbein"
+      },
+      "lastEditedAt": "2020-03-20T11:04:18.000-07:00"
+    },
+    {
+      "id": 579,
+      "type": "RevenuePerformance::Employee",
+      "owner": {
+        "id": 6569,
+        "name": "Tracey Leebrook",
+        "firstName": "Tracey",
+        "lastName": "Leebrook",
+        "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+        "type": "Employee",
+        "team_id": 13
+      },
+      "revenueTarget": 30000.0,
+      "revenueActual": 5054.0,
+      "lastEditedBy": {
+        "id": 5480,
+        "firstName": "Marlene",
+        "lastName": "Fishbein"
+      },
+      "lastEditedAt": "2020-02-20T11:04:18.000-07:00"
+    },
+    {
+      "id": 583,
+      "type": "RevenuePerformance::Employee",
+      "owner": {
+        "id": 6682,
+        "name": "Martha Leduc",
+        "firstName": "Martha",
+        "lastName": "Leduc",
+        "avatar": "https://randomuser.me/api/portraits/women/19.jpg",
+        "type": "Employee",
+        "team_id": 13
+      },
+      "revenueTarget": 20000.0,
+      "revenueActual": 992.0,
+      "lastEditedBy": {
+        "id": 5480,
+        "firstName": "Marlene",
+        "lastName": "Fishbein"
+      },
+      "lastEditedAt": "2020-03-30T11:04:18.000-07:00"
+    },
+    {
+      "id": 604,
+      "type": "RevenuePerformance::Employee",
+      "owner": {
+        "id": 6683,
+        "name": "Andre Taylor",
+        "firstName": "Andre",
+        "lastName": "Taylor",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+        "type": "Employee",
+        "team_id": 13
+      },
+      "revenueTarget": 20000.0,
+      "revenueActual": 1782.0,
+      "lastEditedBy": {
+        "id": 5480,
+        "firstName": "Marlene",
+        "lastName": "Fishbein"
+      },
+      "lastEditedAt": "2020-04-01T11:04:18.000-07:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+.fillBarContainer {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.revenueActual {
+    flex: 1;
+    text-align: left;
+}
+
+.revenueTarget {
+  flex: 1;
+  text-align: right;
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.numberPill {
+  color: white;
+  background-color: grey;
+  padding: 2px;
+  border-radius: 5px;
+  font-size: small;
+  font-weight: bold;
+}
+
+.numberPillContainer {
+    position: absolute;
+    top: 58px;
+    text-align: center; 
+}
+
+.fillBarTick {
+    top: 23px;
+    border-right:2px solid lightgrey;
+    position: absolute;
+    height: 35px;
+}

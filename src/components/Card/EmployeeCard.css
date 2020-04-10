@@ -1,0 +1,23 @@
+.card h3.employeeName {
+  color: var(--primary-color);
+  text-align: left;
+  margin-top: 0;
+}
+
+.card .description {
+  flex: 2 2 0;
+  margin: 0px 20px 0px 20px;
+}
+
+.avatarContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.avatarContainer img {
+    height: 80px; 
+    flex: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
